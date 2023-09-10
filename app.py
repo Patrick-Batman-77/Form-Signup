@@ -4,9 +4,9 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 # Email configuration
-sender_email = "bot90563@gmail.com"
-sender_password = "vrrkofdbtampobhg"
-receiver_email = "reehazshrestha5@gmail.com"
+sender_email = "sender_email"
+sender_password = "sender_password"
+receiver_email = "receiver_email"
 
 
 app = Flask(__name__)
